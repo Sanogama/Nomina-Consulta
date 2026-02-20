@@ -1,4 +1,5 @@
-﻿Num. Per,Nombre,Fecha,Núm hojas
+Nomina
+Num. Per,Nombre,Fecha,Núm hojas
 24199,Rivera Lopez Arturo,16-28 Febrero 2025,14
 48848,Fragoso Teran Juan Manuel,1-15 Marzo 2025,48
 24220,Valerio Canales Miguel,1-15 Marzo 2025,46
@@ -30,7 +31,6 @@
 24199,Rivera Lopez Arturo,1-15 Junio 2025,15
 19296,Ramos Uscanga Noemi Eugenia,1-15 Junio 2025,25
 19835,Rodriguez Leon Abelardo,1-15 Junio 2025,25
-23765,Pablo Lopez Bernardo,1-15 Junio 2025,26
 44229,Elvira Hernandez Ernesto Alberto,1-15 Junio 2025,30
 50778,Lopez Utrera Diego Alejandro,1-15 Junio 2025,32
 55669,Vilaboa Nieto Francisco,1-15 Junio 2025,33
@@ -50,7 +50,6 @@
 15701,Vazquez Pérez Angela Susana,16-30 Junio 2025,25
 19835,Rodriguez Leon Abelardo,16-30 Junio 2025,25
 22379,Triana Tello Juan Antonio,16-30 Junio 2025,26
-23765,Pablo Lopez Bernardo,16-30 Junio 2025,26
 24220,Valerio Canales Miguel,16-30 Junio 2025,27
 44229,Elvira Hernandez Ernesto Alberto,16-30 Junio 2025,30
 50778,Lopez Utrera Diego Alejandro,16-30 Junio 2025,32
@@ -69,7 +68,6 @@
 19296,Ramos Uscanga Noemi Eugenia,1-15 Julio 2025,25
 19835,Rodriguez Leon Abelardo,1-15 Julio 2025,25
 22379,Triana Tello Juan Antonio,1-15 Julio 2025,26
-23765,Pablo Lopez Bernardo,1-15 Julio 2025,26
 24220,Valerio Canales Miguel,1-15 Julio 2025,27
 44229,Elvira Hernandez Ernesto Alberto,1-15 Julio 2025,30
 50778,Lopez Utrera Diego Alejandro,1-15 Julio 2025,31
@@ -87,7 +85,6 @@
 19296,Ramos Uscanga Noemi Eugenia,16-31 Julio 2025,25
 19835,Rodriguez Leon Abelardo,16-31 Julio 2025,25
 22379,Triana Tello Juan Antonio,16-31 Julio 2025,27
-23765,Pablo Lopez Bernardo,16-31 Julio 2025,27
 24220,Valerio Canales Miguel,16-31 Julio 2025,28
 44229,Elvira Hernandez Ernesto Alberto,16-31 Julio 2025,31
 50778,Lopez Utrera Diego Alejandro,16-31 Julio 2025,33
@@ -107,7 +104,6 @@
 24198,Fernandez Rodriguez Estela del Carmen,1-15 Octubre 2025,29
 48700,Baltazar Silva Anadel,1-15 Octubre 2025,40
 57311,Fleitas Toranzo Yadira,1-15 Octubre 2025,41
-23765,Pablo Lopez Bernardo,1-15 Octubre 2025,44
 29387,Salas Castro Roberto Carlos,1-15 Octubre 2025,45
 43913,Herrera May Heberto Agustin,1-15 Octubre 2025,45
 24198,Fernandez Rodriguez Estela del Carmen,16-31 Octubre 2025,51
@@ -199,7 +195,6 @@
 12008,Lopez Castro Joel,1-15 Diciembre 2025,"112, 28"
 15701,Vazquez Pérez Angela Susana,1-15 Diciembre 2025,112
 19835,Rodriguez Leon Abelardo,1-15 Diciembre 2025,112
-23765,Pablo Lopez Bernardo,1-15 Diciembre 2025,113
 26633,Narvaez Martínez Esther Guadalupe,1-15 Diciembre 2025,7
 52736,Ocampo Mata Bertilde,1-15 Diciembre 2025,"15, 25"
 43895,Lopez Huerta Francisco,16-31 Diciembre 2025,"13, 43"
@@ -418,7 +413,6 @@
 10149,Díaz Abrego Rafael Ramón,16-31 Enero 2026,2
 11843,Gallegos Gonzalez Erendira,16-31 Enero 2026,2
 22379,Triana Tello Juan Antonio,16-31 Enero 2026,4
-23765,Pablo Lopez Bernardo,16-31 Enero 2026,5
 23766,Díaz Marchetti Alfredo,16-31 Enero 2026,5
 24220,Valerio Canales Miguel,16-31 Enero 2026,5
 26624,Camarillo Hernandez Agustín,16-31 Enero 2026,6
@@ -476,7 +470,6 @@
 15554,Hernandez Alarcon Juan Diego,1-15 Febrero 2026,3
 16450,Tiburcio García Javier Andres,1-15 Febrero 2026,3
 23750,Bazan Piña Lluvia,1-15 Febrero 2026,"3, 23"
-23765,Pablo Lopez Bernardo,1-15 Febrero 2026,"4, 23"
 24220,Valerio Canales Miguel,1-15 Febrero 2026,5
 26624,Camarillo Hernandez Agustín,1-15 Febrero 2026,6
 26633,Narvaez Martínez Esther Guadalupe,1-15 Febrero 2026,6
@@ -513,3 +506,6 @@
 23766,Díaz Marchetti Alfredo,1-15 Febrero 2026,23
 55669,Vilaboa Nieto Francisco,1-15 Febrero 2026,27
 57309,Grajeda Rosado Jessica Rosario,1-15 Febrero 2026,27
+10149,Díaz Abrego Rafael Ramón,16-30 Noviembre 2025,2
+11843,Gallegos Gonzalez Erendira,16-30 Noviembre 2025,3
+22379,Triana Tello Juan Antonio,16-30 Noviembre 2025,4
